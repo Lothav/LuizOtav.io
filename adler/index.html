@@ -6,13 +6,31 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <script type="text/javascript" src="adler.js"></script>
     <style type="text/css">
-        body{
+        body {
+            position: relative;
             margin: 0;
             background-size: cover;
             background-image: url("./assets/background.gif");
             height: 100vh;
             overflow: hidden;
-        }    </style>
+        }
+        .adler-logo {
+            position: absolute;
+            width: 100%;
+            text-align: center;
+            top: calc(50vh - 300px);
+            z-index: -1;
+        }
+        .adler-logo img {
+            width: 100%;
+            max-width: 800px;
+        }
+        @media(max-width: 1215px){
+            .adler-logo {
+                top: calc(50vw - 400px);
+            }
+        }
+    </style>
     <script>
         window.onload = function(){
             (new Adler.Game()).Start();
