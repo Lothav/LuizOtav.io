@@ -1,9 +1,8 @@
 {
-  "main.css": "static/css/main.23c342a0.css",
-  "main.css.map": "static/css/main.23c342a0.css.map",
-  "main.js": "static/js/main.47385b73.js",
-  "main.js.map": "static/js/main.47385b73.js.map",
-  "static/media/about.svg": "static/media/about.e9d69559.svg",
+  "main.css": "static/css/main.2a6a3660.css",
+  "main.css.map": "static/css/main.2a6a3660.css.map",
+  "main.js": "static/js/main.4729cb8d.js",
+  "main.js.map": "static/js/main.4729cb8d.js.map",
   "static/media/breakout_gif.gif": "static/media/breakout_gif.1bc45038.gif",
   "static/media/eddie.ttf": "static/media/eddie.f3ef61cb.ttf",
   "static/media/eu_foto_draw.svg": "static/media/eu_foto_draw.3e6a4423.svg",
@@ -17,6 +16,5 @@
   "static/media/programming-ide.mp4": "static/media/programming-ide.f67881a1.mp4",
   "static/media/programming-ide.ogv": "static/media/programming-ide.7c2a6b86.ogv",
   "static/media/programming-ide.webm": "static/media/programming-ide.af1c0292.webm",
-  "static/media/skills.svg": "static/media/skills.36a97348.svg",
   "static/media/wow.png": "static/media/wow.2d9a03ee.png"
 }
